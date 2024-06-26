@@ -66,6 +66,7 @@ ALTER TABLE table_name MODIFY COLUMN column_name datatype;
 `
 Speaking of plural table names, the practice of using plural names for database tables is not a strict requirement, but rather a convention followed by many developers for various reasons, such as consistency and readability, conventional standards, intuitive queries.
 `
+<br/>
 Stay focused, keep pushing forward, and don't hesitate to seek out the resources and support you need. 
 
 GLHF!!
