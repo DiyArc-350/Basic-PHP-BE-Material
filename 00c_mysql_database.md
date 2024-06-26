@@ -36,8 +36,14 @@ drop DATABASE student_data;
 the ALTER command is used to modify the structure of an existing database object, such as a table. 
 
 `Whoops i did a typo, when creating the student table, can you spot it?`
+<details>
+  <summary>Click to see answer</summary>
 
-`If you guess the plurality of the table name, you're right!`
+    If you guess the plurality of the table name, you're right!.
+
+</details>
+
+
 
 ### Rename Table:
 ```sql
